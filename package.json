@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-sc",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scastro5/random-str-msg-sc.git"
+  },
+  "keywords": [],
+  "author": "Santiago Castro <santiagoc505@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scastro5/random-str-msg-sc/issues"
+  },
+  "homepage": "https://github.com/scastro5/random-str-msg-sc#readme",
+  "bin": {
+    "random-str-msg-sc": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
